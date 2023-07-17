@@ -1,2 +1,2 @@
 # Yandex_Practicum
-Yandex Practicum DS projects
+Проекты, сделанные в процессе обучения в Яндекс Практикум по программе "Специалист по Data Science".
